@@ -1,0 +1,16 @@
+[
+    {
+        "identificador_pessoa": "123456",
+        "inicio": "2023-05-01 00:00:00",
+        "fim": "2023-05-01 23:59:59",
+        "idade": 30,
+        "localizacao": "São Paulo"
+    },
+    {
+        "identificador_pessoa": "789012",
+        "inicio": "2023-05-02 00:00:00",
+        "fim": "2023-05-02 23:59:59",
+        "idade": 25,
+        "localizacao": "Rio de Janeiro"
+    }
+]
